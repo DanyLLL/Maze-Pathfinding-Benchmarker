@@ -14,7 +14,7 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
   
 - **Object-Oriented Programming (OOP)** : Learned to properly structure the project using custom classes and operator to cleanly manage 2D movements and cell states.
 
-- **Custom Data Structures** : Built and managed a custom LIFO for the DFS maze generation, and mapped the maze into a dictionary-based adjacency list for Dijkstra's evaluation.
+- **Custom Data Structures** : Built and managed a custom `LIFO` for the DFS maze generation, and mapped the maze into a dictionary-based adjacency list for Dijkstra's evaluation.
   
 - **GUI & Event-Driven Programming** : Used `tkinter` to build an interactive canvas, manage real-time visual updates during algorithm execution, and bind user mouse clicks to redefine the placement of the start and end points of the maze.
   
