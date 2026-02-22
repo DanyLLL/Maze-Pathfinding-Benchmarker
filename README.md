@@ -3,13 +3,13 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
 
 ## 📚 What I learned
 
-- **Pathfinding & Graph Algorithms** : Taught me how to implement and visually compare Depth-First Search (DFS) and Dijkstra's algorithm to find the shortest path in a generated grid.
+- **Pathfinding & Graph Algorithms** : Taught me how to implement and compare WallFollower, Depth-First Search (DFS) and Dijkstra's algorithm to find the shortest path in a defined maze.
   
-- **Object-Oriented Programming (OOP)** : Structured the project using custom classes (`cellule`, `labyrinthe`) and operator overloading (`__add__`, `__eq__` in `coord`) to cleanly manage 2D movements and grid states.
+- **Object-Oriented Programming (OOP)** : Learned to properly structure the project using custom classes and operator to cleanly manage 2D movements and cell states.
   
-- **GUI & Event-Driven Programming** : Used `tkinter` to build an interactive canvas, manage real-time visual updates during algorithm execution, and bind user mouse clicks to place dynamic start/end points.
+- **GUI & Event-Driven Programming** : Used `tkinter` to build an interactive canvas, manage real-time visual updates during algorithm execution, and bind user mouse clicks to redefine the placement of the start and end points of the maze.
   
-- **Custom Data Structures** : Built and managed a custom Stack (LIFO) for the DFS maze generation, and mapped the grid into a dictionary-based adjacency list for Dijkstra's evaluation.
+- **Custom Data Structures** : Built and managed a custom LIFO for the DFS maze generation, and mapped the maze into a dictionary-based adjacency list for Dijkstra's evaluation.
   
-- **Algorithm Benchmarking** : Implemented a timing system to track, calculate, and display the exact execution speed of each pathfinding method to compare their efficiency.
+- **Algorithm Benchmarking** : How to use `time import` to track, calculate, and display the exact execution speed of each pathfinding method to compare their efficiency.
   
