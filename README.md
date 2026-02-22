@@ -13,5 +13,5 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
   
 - **Algorithm Benchmarking** : How to use `time import` to track, calculate, and display the exact execution speed of each pathfinding method to compare their efficiency.
 
-Developped by Dany LIM (@DanyLLL)
+Developped by Dany LIM ([@DanyLLL](https://github.com/DanyLLL))
   
