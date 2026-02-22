@@ -1,5 +1,5 @@
 ## 🕸️ Maze Pathfinder & Benchmarker - Developed in Python
-A Python, Tkinter graphic application to generate mazes with various maze-generator algorithms and benchmark the execution time of various pathfinding algorithms.  
+A Python, Tkinter graphic application to generate mazes with various maze-generator algorithms and to benchmark the execution time of various pathfinding algorithms.  
 
 <img width="1015" height="952" alt="image" src="https://github.com/user-attachments/assets/4b532384-9d2c-40e7-8c2a-dce59c88e72e" />
 
