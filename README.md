@@ -1,6 +1,8 @@
 ## 🕸️ Maze-Pathfinding-Visualizer-Benchmarker
 A Python, Tkinter graphic application to generate mazes with various maze-generator algorithms and benchmark the execution time of various pathfinding algorithms.  
 
+<img width="1015" height="952" alt="image" src="https://github.com/user-attachments/assets/4b532384-9d2c-40e7-8c2a-dce59c88e72e" />
+
 ## 📚 What I learned
 
 - **Pathfinding & Graph Algorithms** : Taught me how to implement and compare WallFollower, Depth-First Search (DFS) and Dijkstra's algorithm to find the shortest path in a defined maze.
