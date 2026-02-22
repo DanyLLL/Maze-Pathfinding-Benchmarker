@@ -12,4 +12,6 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
 - **GUI & Event-Driven Programming** : Used `tkinter` to build an interactive canvas, manage real-time visual updates during algorithm execution, and bind user mouse clicks to redefine the placement of the start and end points of the maze.
   
 - **Algorithm Benchmarking** : How to use `time import` to track, calculate, and display the exact execution speed of each pathfinding method to compare their efficiency.
+
+Developped by Dany LIM (@DanyLLL)
   
