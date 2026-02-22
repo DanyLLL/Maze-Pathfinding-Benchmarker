@@ -3,6 +3,8 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
 
 <img width="1015" height="952" alt="image" src="https://github.com/user-attachments/assets/4b532384-9d2c-40e7-8c2a-dce59c88e72e" />
 
+<img width="658" height="701" alt="image" src="https://github.com/user-attachments/assets/731b081a-eea5-4e3b-81da-4374853b57d0" />
+
 ## 📚 What I learned
 
 - **Pathfinding & Graph Algorithms** : Taught me how to implement and compare WallFollower, Depth-First Search (DFS) and Dijkstra's algorithm to find the shortest path in a defined maze.
