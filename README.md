@@ -3,7 +3,9 @@ A Python, Tkinter graphic application to generate mazes with various maze-genera
 
 <img width="1015" height="952" alt="image" src="https://github.com/user-attachments/assets/4b532384-9d2c-40e7-8c2a-dce59c88e72e" />
 
-<img width="1500" height="1500" alt="Collage" src="https://github.com/user-attachments/assets/7adaa997-57f2-4cc0-9236-c6efebd76209" />
+<img width="1500" height="1500" alt="Collage" src="https://github.com/user-attachments/assets/6e27b59b-f43f-44d9-98f7-331ff33c2615" />
+
+
 
 
 ## 📚 What I learned
